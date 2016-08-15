@@ -1,0 +1,5 @@
+Name: Bill O'Brien
+
+Years at SSA: 2
+
+Experience with Java: I have worked with Java development for quite some time with experience in JPA, JEE, Spring, Struts(2), EJB, etc...
